@@ -2,7 +2,6 @@
 
 A Python repository dedicated to implementing numerical methods for solving Ordinary Differential Equations (ODEs) and modeling physical dynamical systems.
 
----
 
 ## Modules & Architecture
 
@@ -14,14 +13,12 @@ A Python repository dedicated to implementing numerical methods for solving Ordi
 | **`boundary-value-probs/`** | Shooting methods and finite difference algorithms | Boundary value problem (BVP) solving |
 | **`applications/`** | N-body celestial mechanics, oscillators, chaotic systems | Physical simulations and dynamic models |
 
----
 
 ## Tech Stack
 
 * **Language:** Python 3.x
 * **Core Libraries:** `NumPy`, `SciPy`, `Matplotlib`
 
----
 
 ## License
 
